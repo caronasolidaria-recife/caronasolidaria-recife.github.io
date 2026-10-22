@@ -2,7 +2,7 @@
 
 Site simples para vizinhos com carro levarem vizinhos com dificuldade de locomoção (idosos, pessoas com deficiência) até o local de votação. Gratuito e apartidário.
 
-**Site:** <https://caronasolidaria.github.io/caronasolidaria-recife/>
+**Site:** <https://caronasolidaria-recife.github.io/>
 
 Criado e organizado por **Ricardo Rodrigues** ([@rsilveirafh](https://github.com/rsilveirafh)). O contato da organização (WhatsApp) está no site.
 
@@ -23,7 +23,7 @@ A planilha é o painel da organização: aba `Pedidos` (quem pediu, quem assumiu
 ## Ligar a planilha (5 minutos, uma vez)
 
 1. Abra <https://sheets.new> e dê um nome, ex.: `Carona Solidária — dados`.
-2. Menu **Extensões → Apps Script**. Apague o conteúdo e cole o de `apps-script/Code.gs` (versão bruta: <https://raw.githubusercontent.com/caronasolidaria/caronasolidaria-recife/main/apps-script/Code.gs>). Salve.
+2. Menu **Extensões → Apps Script**. Apague o conteúdo e cole o de `apps-script/Code.gs` (versão bruta: <https://raw.githubusercontent.com/caronasolidaria-recife/caronasolidaria-recife.github.io/main/apps-script/Code.gs>). Salve.
 3. No seletor de funções, escolha `setup` e clique em **Executar**. Autorize o acesso (aparece "app não verificado": *Avançado → Acessar*). As abas `Pedidos` e `Motoristas` serão criadas, e a exclusão automática dos dados fica agendada.
 4. **Implantar → Nova implantação →** tipo **App da Web**:
    - Executar como: **Eu**
