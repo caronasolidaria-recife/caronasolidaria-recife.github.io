@@ -27,6 +27,8 @@ window.CONFIG = {
   // WhatsApp e nome de quem organiza (DDD + número, só dígitos). Deixe vazio para não exibir.
   CONTATO: '81996189993',
   CONTATO_NOME: 'Ricardo Rodrigues',
+  // Código do site no GitHub (link do "Feito por" no rodapé).
+  REPOSITORIO: 'https://github.com/caronasolidaria-recife/caronasolidaria-recife.github.io',
   // Quando os dados são apagados (igual a APAGAR_EM no Code.gs).
   APAGAR_ATE: '26/10/2026, às 18h',
 };
