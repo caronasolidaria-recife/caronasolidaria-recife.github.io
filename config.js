@@ -1,7 +1,7 @@
 // Ajuste estes valores e publique de novo.
 window.CONFIG = {
   // URL do App da Web do Apps Script (termina em /exec). Ver README.md.
-  SCRIPT_URL: '',
+  SCRIPT_URL: 'https://script.google.com/macros/s/AKfycbxnmWYAr_jcJxaursjXStuH7Oz2DG8hgLWGmEGqo6W0YsEpdx2uCmiFbeMA4NoyrbxXZg/exec',
   // Nome do bairro ou da comunidade, aparece no topo.
   BAIRRO: 'Recife',
   // Cidade, usada nos links de rota quando o ponto não foi marcado no mapa.
